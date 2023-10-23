@@ -1,0 +1,15 @@
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\bin\Debug\net8.0\BusinessManager.exe
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\bin\Debug\net8.0\BusinessManager.deps.json
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\bin\Debug\net8.0\BusinessManager.runtimeconfig.json
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\bin\Debug\net8.0\BusinessManager.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\bin\Debug\net8.0\BusinessManager.pdb
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.csproj.AssemblyReference.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.AssemblyInfoInputs.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.AssemblyInfo.cs
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\refint\BusinessManager.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.pdb
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\BusinessManager.genruntimeconfig.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\BusinessManager after review by Vika 28.06.2023\BusinessManager\obj\Debug\net8.0\ref\BusinessManager.dll
